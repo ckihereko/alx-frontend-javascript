@@ -1,4 +1,0 @@
-//  return the number of arguments passed to it using the rest parameter syntax
-export default function returnHowManyArguments(...rest) {
-    return rest.length;
-}
